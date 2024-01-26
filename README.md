@@ -1,4 +1,4 @@
-### Hi there, I'm Ellie 👋
+# Hi there, I'm Ellie 👋
 
 I am an aspiring front-end developer from Peru 🇵🇪 living in the USA 🇺🇸
 <br>
