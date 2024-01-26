@@ -10,7 +10,7 @@ I enjoy learning and transforming my coding ideas into reality.
 * JavaScript
 
 
-## What I am doing
+## Get to Know Me
 - 🔭 I’m currently working on improving my coding skills.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on web development projects.
