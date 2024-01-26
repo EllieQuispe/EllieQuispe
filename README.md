@@ -8,6 +8,7 @@ I enjoy learning and transforming my coding ideas into reality.
 * HTML
 * CSS/SCSS
 * JavaScript
+* Node.js
 
 
 ## Get to Know Me
